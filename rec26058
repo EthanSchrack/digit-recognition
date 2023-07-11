@@ -1,0 +1,7 @@
+FEP:
+total 916
+-rw-r--r--. 1 myid   1927 May  4 14:39 digit-recognition.py
+-rw-r--r--. 1 myid   1424 May  4 14:39 gui.py
+-rw-r--r--. 1 myid 925872 May  4 14:39 mnist_cnn.h5
+-rw-r--r--. 1 myid      0 May  4 14:40 rec26058
+/home/myid/ess56467/cs3360/FEP:/home/myid/csci-3360
